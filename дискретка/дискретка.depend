@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1580998775 source:d:\programs\дискретка\calculate.cpp
+	<iostream>
+	<windows.h>
+
+1580999183 source:d:\programs\дискретка\main.cpp
+	<iostream>
+	"CALCULATE.h"
+	"EQUATION.h"
+	"JEGALKIN.h"
+
+1580813331 d:\programs\дискретка\calculate.h
+	<iostream>
+
+1581411510 source:d:\programs\дискретка\equation.cpp
+	<iostream>
+	<vector>
+	<string>
+	"CALCULATE.h"
+
+1580918672 d:\programs\дискретка\equation.h
+	<iostream>
+
+1580998014 source:d:\programs\дискретка\jegalkin.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<vector>
+	"EQUATION.h"
+
+1580991512 d:\programs\дискретка\jegalkin.h
+	<iostream>
+	<windows.h>
+

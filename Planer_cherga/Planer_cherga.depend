@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1583146868 source:d:\programs\planer_cherga\main.cpp
+	<iostream>
+	<vector>
+	<conio.h>
+	"Queue_class.h"
+	"choose_a_choise.h"
+
+1583146231 d:\programs\planer_cherga\queue_class.h
+	<iostream>
+	<windows.h>
+
+1579711373 d:\programs\planer_cherga\choose_a_choise.h
+	<vector>
+
+1579848971 source:d:\programs\planer_cherga\choose_a_choise.cpp
+	<bits/stdc++.h>
+	<vector>
+	<windows.h>
+	<conio.h>
+
